@@ -5,6 +5,7 @@ white
 yellow 
 red
 green 
+purple
 unicorn
 blue
 and a unicorn 
